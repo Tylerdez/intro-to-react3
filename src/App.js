@@ -9,7 +9,8 @@
        <ul>
          <ToDo />
          <ToDo />
-       </ul>  
+         
+       </ul>
        </div>
      );
    }
